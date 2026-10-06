@@ -1,0 +1,14 @@
+name: rabirus
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.7
+  - pandas
+  - numpy
+  - biopython
+  - tqdm
+  - mafft
+  - pip
+  - pip:
+      - dearpygui
