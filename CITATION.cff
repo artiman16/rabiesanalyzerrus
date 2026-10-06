@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: '"RabiesAnalyzerRus"'
+message: >-
+  "If you use this software in your research, please cite it
+  using the metadata from this file."
+type: software
+authors:
+  - given-names: Artem
+    family-names: Gerasimenko
+    email: gerasimenko_aa@antiplague.ru
+    affiliation: >-
+      «Rostov-on-Don Antiplague Scientific Research
+      Institute» of Rospotrebnadzor, Rostov-on-Don, Russia
+    orcid: 'https://orcid.org/0000-0002-7700-3483'
+repository-code: 'https://github.com/artiman16/rabiesanalyzerrus'
+url: 'https://github.com/artiman16/rabiesanalyzerrus'
+abstract: >-
+  RabiesAnalyzerRus is a program designed to analyze the
+  genomes of Lyssavirus rabies and to identify genetic
+  clusters based on the N and G genes SNP profiles, as well
+  as to validate the genomes (by searching for stop codons
+  and mistakes in each gene).
+keywords:
+  - bioinformatics
+  - pipeline
+version: '1.0'
+date-released: '2026-10-06'
